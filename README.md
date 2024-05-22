@@ -1,4 +1,4 @@
-## Release ThanhDieu.Com V5 Tester
+## Release Fork từ Thanh Diệu
 
 ## Mô Tả V5.0.0
 
@@ -29,7 +29,5 @@ Chỉnh sửa tài nguyên ở: {domain}/res/v5/*
 ![ThanhDieu.Com](https://i.imgur.com/urmLd6H.png)
 ![ThanhDieu.Com](https://i.imgur.com/tOWfTBQ.png)
 ![ThanhDieu.Com](https://i.imgur.com/jjvyIvG.png)
-# endermeme
-# endermeme
-# endermeme
-# endermeme
+# Làm lại bởi Bình Tagilla
+
