@@ -1,12 +1,3 @@
----
-description: A Hacker but not a Hacker......
-cover: ../.gitbook/assets/icegif-165.gif
-coverY: 0
----
-
-# 👾 VBAnonyMe
-
-<figure><img src="../.gitbook/assets/WtVOjr6.gif" alt=""><figcaption><p>Chill time</p></figcaption></figure>
 
 #### NÓI KHÔNG HẶC CƠ LỎ FB ,DAME ACC ,BUFF LIKE....
 
