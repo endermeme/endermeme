@@ -32,7 +32,7 @@
 ![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=plastic&logo=circleci&logoColor=white) 
 ![Anycross](https://img.shields.io/badge/Anycross-%23F25C54.svg?style=plastic&logo=anycross&logoColor=white) 
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=plastic&logo=gnu-bash&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white) 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
