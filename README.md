@@ -91,13 +91,6 @@
 ![Achievement](https://img.shields.io/badge/Achievement-Làm_việc_tại_Aura_AI-purple)
 ### 🎵Spotify
 # 🎵 Spotify Playlist
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
-
-<p float="left">
-  <iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM5M" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" />
-</p>
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31g76tz53d3wwabi7j4x2t5gqgei&unique={true|1|on|yes})
 ---
 [![Check](https://visitcount.itsvg.in/api?id=endermeme&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
