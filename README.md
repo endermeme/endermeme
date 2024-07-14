@@ -92,7 +92,7 @@
 ### 🎵 Spotify Playlist
 <p align="center" style="display: flex; flex-wrap: nowrap; justify-content: center;">
   <img height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g76tz53d3wwabi7j4x2t5gqgei&cover_image=true&theme=default&show_offline=false&background_color=ab67fe&interchange=false&bar_color=00ff6e&bar_color_cover=true" style="width: calc(50% - 10px); margin-right: 20px;">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g76tz53d3wwabi7j4x2t5gqgei&unique=true" style="width: calc(50% - 10px); height: 445px; object-fit: cover;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g76tz53d3wwabi7j4x2t5gqgei&unique=true" style="width: calc(50% - 10px);">
 </p>
 
 ---
