@@ -42,8 +42,8 @@
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 
 # 📊GitHub Stats :
-![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true)
-![endermeme's Stats](https://github-readme-stats.vercel.app/api?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true&card_width=445)
+![endermeme's Stats](https://github-readme-stats.vercel.app/api?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=445)
 ![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=445)
 
 ## 🏆GitHub Trophies
