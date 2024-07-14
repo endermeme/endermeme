@@ -94,8 +94,11 @@
 
 ### 🏆Achievements
 ![Achievement](https://walnut-bristle-badge.glitch.me/1.svg)
+
 ![Achievement](https://walnut-bristle-badge.glitch.me/2.svg)
+
 ![Achievement](https://walnut-bristle-badge.glitch.me/3.svg)
+
 ![Achievement](https://walnut-bristle-badge.glitch.me/4.svg)
 
 ### 🎵 Spotify Playlist
