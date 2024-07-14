@@ -5,7 +5,7 @@
 - ---> ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) <---
 - My shitposting social media
 - ---> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) <---
-### 🏆Achievements
+### 🏆Achievements :
 ![Achievement](https://walnut-bristle-badge.glitch.me/1.svg)
 ![Achievement](https://walnut-bristle-badge.glitch.me/2.svg)
 ![Achievement](https://walnut-bristle-badge.glitch.me/3.svg)
@@ -16,7 +16,7 @@
 ![endermeme's Stats](https://github-readme-stats.vercel.app/api?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=445)
 ![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=445)
 
-# 💻Tech Stack
+# 💻Tech Stack :
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -56,7 +56,7 @@
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-# 🐧Distro Stack
+# 🐧Distro Stack :
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) 
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white) 
@@ -88,20 +88,20 @@
 ![Qubes OS](https://img.shields.io/badge/Qubes%20OS-3874D9?style=for-the-badge&logo=qubes-os&logoColor=white) 
 ![Trisquel](https://img.shields.io/badge/Trisquel-3E75AA?style=for-the-badge&logo=trisquel&logoColor=white)
 
-### 💻Operation System Stack
+### 💻Operation System Stack :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### 🎵 Spotify Playlist
+### 🎵 Spotify Playlist :
 <p align="left" style="display: flex; flex-wrap: nowrap; justify-content: center;">
   <img height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g76tz53d3wwabi7j4x2t5gqgei&cover_image=true&theme=default&show_offline=false&background_color=ab67fe&interchange=false&bar_color=00ff6e&bar_color_cover=true" style="width: calc(50% - 10px); margin-right: 20px;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g76tz53d3wwabi7j4x2t5gqgei&unique=true" style="width: calc(50% - 10px);">
 </p>
 
----
+### 💦Random anime picture :
 
 ![sdfsdfsdfsdf](https://waifu-getter.vercel.app/sfw/waifu)
 
