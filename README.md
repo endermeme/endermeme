@@ -36,6 +36,10 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=plastic&logo=arch-linux&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-%2340037A.svg?style=plastic&logo=perl&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 
 # 📊GitHub Stats :
 ![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true)
