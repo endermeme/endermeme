@@ -103,7 +103,7 @@
 
 ### 💦Random anime picture :
 
-![sdfsdfsdfsdf](https://waifu-getter.vercel.app/sfw/waifu)
+![sdfsdfsdfsdf](https://waifu-getter.vercel.app/sfw/random)
 
 ---
 
