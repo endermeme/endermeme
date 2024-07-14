@@ -94,8 +94,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Truong030&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🏆Achievements
 ![Achievement](https://img.shields.io/badge/Achievement-Học_sinh_giỏi_văn_huyện_và_tỉnh-yellow) 
