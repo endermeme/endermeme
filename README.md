@@ -48,6 +48,8 @@
 ### 🏆 Achievements
 ![Achievement](https://img.shields.io/badge/Achievement-Học_sinh_giỏi_văn_huyện_và_tỉnh-yellow) 
 ![Achievement](https://img.shields.io/badge/Achievement-Giải_nhất_tin_học_trẻ_tỉnh-green)
+![Achievement](https://img.shields.io/badge/Achievement-Chuẩn_bị_đi_thi_giải_Design_For_Change-purple)
+![Achievement](https://img.shields.io/badge/Achievement-Làm_việc_tại_Aura_AI-%2333CC33?style=plastic&logo=none&logoColor=white&labelColor=%2333CC33&color=%2333CC33)
 
 
 ---
