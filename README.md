@@ -1,4 +1,6 @@
 # 💫About Me :
+- Hello and welcome to my bullshit profile
+- My name is Bình but you can call me Tagilla 
 - A coder and tester who has been fucked by Arch Linux
 
 ## 🌐Socials
@@ -14,13 +16,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 # 📊GitHub Stats :
+![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true)
+
 ![endermeme's Stats](https://github-readme-stats.vercel.app/api?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Truong030&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true)
+
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
