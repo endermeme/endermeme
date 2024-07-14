@@ -49,7 +49,6 @@
 ![Achievement](https://img.shields.io/badge/Achievement-Học_sinh_giỏi_văn_huyện_và_tỉnh-yellow) 
 ![Achievement](https://img.shields.io/badge/Achievement-Giải_nhất_tin_học_trẻ_tỉnh-green)
 
-<img src="https://nekos.best/api/v1/nekos/neko_1.png" alt="Random Anime Image" width="300" align="right"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Truong030&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=endermeme&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
