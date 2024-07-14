@@ -22,7 +22,15 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=plastic&logo=fastapi&logoColor=white) 
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=plastic&logo=amazon-aws&logoColor=%23FF9900) 
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
+![Make](https://img.shields.io/badge/Make-%23000000.svg?style=plastic&logo=gnu-make&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=plastic&logo=postman&logoColor=white) 
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=plastic&logo=ansible&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=plastic&logo=github-actions&logoColor=white) 
+![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=plastic&logo=circleci&logoColor=white) 
+![Anycross](https://img.shields.io/badge/Anycross-%23F25C54.svg?style=plastic&logo=anycross&logoColor=white)
 
 # 📊GitHub Stats :
 ![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true)
