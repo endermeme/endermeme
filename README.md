@@ -2,9 +2,17 @@
 - Hello and welcome to my bullshit profile
 - My name is Bình but you can call me Tagilla 
 - A coder and tester who has been fucked by ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
+- My shitposting social media ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+### 🏆Achievements
+![Achievement](https://walnut-bristle-badge.glitch.me/1.svg)
+![Achievement](https://walnut-bristle-badge.glitch.me/2.svg)
+![Achievement](https://walnut-bristle-badge.glitch.me/3.svg)
+![Achievement](https://walnut-bristle-badge.glitch.me/4.svg)
 
-## 🌐Socials
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+# 📊GitHub Stats :
+![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true&card_width=445)
+![endermeme's Stats](https://github-readme-stats.vercel.app/api?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=445)
+![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=445)
 
 # 💻Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -84,19 +92,6 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-
-# 📊GitHub Stats :
-![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true&card_width=445)
-![endermeme's Stats](https://github-readme-stats.vercel.app/api?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=445)
-![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=445)
-
-
-### 🏆Achievements
-![Achievement](https://walnut-bristle-badge.glitch.me/1.svg)
-![Achievement](https://walnut-bristle-badge.glitch.me/2.svg)
-![Achievement](https://walnut-bristle-badge.glitch.me/3.svg)
-![Achievement](https://walnut-bristle-badge.glitch.me/4.svg)
 
 ### 🎵 Spotify Playlist
 <p align="left" style="display: flex; flex-wrap: nowrap; justify-content: center;">
