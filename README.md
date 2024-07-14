@@ -91,6 +91,7 @@
 ![Achievement](https://img.shields.io/badge/Achievement-Làm_việc_tại_Aura_AI-purple)
 ### 🎵 Spotify Playlist
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31g76tz53d3wwabi7j4x2t5gqgei&unique={true|1|on|yes})
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g76tz53d3wwabi7j4x2t5gqgei&cover_image=true&theme=default&show_offline=false&background_color=ab67fe&interchange=false&bar_color=00ff6e&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31g76tz53d3wwabi7j4x2t5gqgei&redirect=true)
 ---
 [![Check](https://visitcount.itsvg.in/api?id=endermeme&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
