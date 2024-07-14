@@ -90,7 +90,7 @@
 ![Achievement](https://img.shields.io/badge/Achievement-Chuẩn_bị_đi_thi_giải_Design_For_Change-blue)
 ![Achievement](https://img.shields.io/badge/Achievement-Làm_việc_tại_Aura_AI-purple)
 ### 🎵 Spotify Playlist
-<p align="center">
+<p align="left">
   <img height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g76tz53d3wwabi7j4x2t5gqgei&cover_image=true&theme=default&show_offline=false&background_color=ab67fe&interchange=false&bar_color=00ff6e&bar_color_cover=true" style="margin-right: 20px; display: inline-block;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g76tz53d3wwabi7j4x2t5gqgei&unique=true" style="height: 445px; width: auto; display: inline-block;">
 </p>
