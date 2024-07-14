@@ -89,8 +89,7 @@
 ![Achievement](https://img.shields.io/badge/Achievement-Giải_nhất_tin_học_trẻ_tỉnh-red)
 ![Achievement](https://img.shields.io/badge/Achievement-Chuẩn_bị_đi_thi_giải_Design_For_Change-blue)
 ![Achievement](https://img.shields.io/badge/Achievement-Làm_việc_tại_Aura_AI-purple)
-### 🎵Spotify
-# 🎵 Spotify Playlist
+### 🎵 Spotify Playlist
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31g76tz53d3wwabi7j4x2t5gqgei&unique={true|1|on|yes})
 ---
 [![Check](https://visitcount.itsvg.in/api?id=endermeme&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
