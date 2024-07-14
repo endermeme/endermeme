@@ -30,14 +30,17 @@
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=plastic&logo=github-actions&logoColor=white) 
 ![CircleCI](https://img.shields.io/badge/CircleCI-%23161616.svg?style=plastic&logo=circleci&logoColor=white) 
-![Anycross](https://img.shields.io/badge/Anycross-%23F25C54.svg?style=plastic&logo=anycross&logoColor=white)
+![Anycross](https://img.shields.io/badge/Anycross-%23F25C54.svg?style=plastic&logo=anycross&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=plastic&logo=gnu-bash&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) 
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=plastic&logo=arch-linux&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) 
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white) 
 
 # 📊GitHub Stats :
 ![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true)
-
 ![endermeme's Stats](https://github-readme-stats.vercel.app/api?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=445)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Truong030&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -50,7 +53,6 @@
 ![Achievement](https://img.shields.io/badge/Achievement-Giải_nhất_tin_học_trẻ_tỉnh-red)
 ![Achievement](https://img.shields.io/badge/Achievement-Chuẩn_bị_đi_thi_giải_Design_For_Change-blue)
 ![Achievement](https://img.shields.io/badge/Achievement-Làm_việc_tại_Aura_AI-purple)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=endermeme&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
