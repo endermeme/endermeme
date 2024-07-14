@@ -4,7 +4,7 @@
 - A coder and tester who has been fucked by
 - ---> ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) <---
 - My shitposting social media
-- ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+- ---> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) <---
 ### 🏆Achievements
 ![Achievement](https://walnut-bristle-badge.glitch.me/1.svg)
 ![Achievement](https://walnut-bristle-badge.glitch.me/2.svg)
