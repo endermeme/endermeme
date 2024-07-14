@@ -91,9 +91,6 @@
 ![endermeme's Stats](https://github-readme-stats.vercel.app/api?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=445)
 ![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=445)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Truong030&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 ### 🏆Achievements
 ![Achievement](https://img.shields.io/badge/Achievement-Học_sinh_giỏi_văn_huyện_và_tỉnh-yellow) 
