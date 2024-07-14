@@ -1,7 +1,7 @@
 # 💫About Me :
 - Hello and welcome to my bullshit profile
 - My name is Bình but you can call me Tagilla 
-- A coder and tester who has been fucked by Arch Linux
+- A coder and tester who has been fucked by ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white) 
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/binh.depagan) 
