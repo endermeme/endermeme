@@ -94,10 +94,10 @@
 
 ### 🏆Achievements
 ![Achievement](https://walnut-bristle-badge.glitch.me/1.svg)
-![Achievement](https://img.shields.io/badge/Achievement-Học_sinh_giỏi_văn_huyện_và_tỉnh-yellow) 
-![Achievement](https://img.shields.io/badge/Achievement-Giải_nhất_tin_học_trẻ_tỉnh-red)
-![Achievement](https://img.shields.io/badge/Achievement-Chuẩn_bị_đi_thi_giải_Design_For_Change-blue)
-![Achievement](https://img.shields.io/badge/Achievement-Làm_việc_tại_Aura_AI-purple)
+![Achievement](https://walnut-bristle-badge.glitch.me/2.svg)
+![Achievement](https://walnut-bristle-badge.glitch.me/3.svg)
+![Achievement](https://walnut-bristle-badge.glitch.me/4.svg)
+
 ### 🎵 Spotify Playlist
 <p align="left" style="display: flex; flex-wrap: nowrap; justify-content: center;">
   <img height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g76tz53d3wwabi7j4x2t5gqgei&cover_image=true&theme=default&show_offline=false&background_color=ab67fe&interchange=false&bar_color=00ff6e&bar_color_cover=true" style="width: calc(50% - 10px); margin-right: 20px;">
