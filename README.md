@@ -15,7 +15,8 @@
 ![endermeme's Streak](https://github-readme-streak-stats.herokuapp.com/?user=endermeme&theme=tokyonight&hide_border=true&card_width=445)
 ![endermeme's Stats](https://github-readme-stats.vercel.app/api?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=445)
 ![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=445)
-![](https://github-contributor-stats.vercel.app/api?username=endermeme&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&card_width=445)
+![endermeme's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=endermeme&limit=5&theme=tokyonight&hide_border=true&card_width=445)
+
 
 # 💻Tech Stack :
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white) 
