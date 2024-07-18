@@ -1,6 +1,7 @@
 # 💫About Me :
 - Hello and welcome to my bullshit profile
-- My name is Bình but you can call me Tagilla 
+- My name is Bình but you can call me Tagilla
+- On the journey to becoming a DevOps 
 - A coder and tester who has been fucked by
 - ---> ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) <---
 - My shitposting social media
