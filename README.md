@@ -4,13 +4,6 @@
 - On the journey to becoming a DevOps 
 - A coder and tester who has been fucked by
 - ---> ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) <---
-- My shitposting social media
-- ---> ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) <---
-### 🏆Achievements :
-![Achievement](https://walnut-bristle-badge.glitch.me/1.svg)
-![Achievement](https://walnut-bristle-badge.glitch.me/2.svg)
-![Achievement](https://walnut-bristle-badge.glitch.me/3.svg)
-![Achievement](https://walnut-bristle-badge.glitch.me/4.svg)
 
 # 📊GitHub Stats :
 ![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=445)
