@@ -27,7 +27,6 @@
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-A81D33?style=for-the-badge&logo=freebsd&logoColor=white) 
 ![OpenBSD](https://img.shields.io/badge/OpenBSD-F28000?style=for-the-badge&logo=openbsd&logoColor=white) 
 ![GNU](https://img.shields.io/badge/GNU-4B8000?style=for-the-badge&logo=gnu&logoColor=white)
-
 ### 💻Operation System Stack :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
