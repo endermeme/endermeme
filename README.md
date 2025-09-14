@@ -1,4 +1,5 @@
 # 💫About Me :
+![Jojo Calamity GIF](https://media.tenor.com/FERbWoosBFIAAAAM/jojo-calamity.gif)
 - Hello and welcome to my bullshit profile
 - My name is Bình but you can call me Tagilla
 - On the journey to becoming a DevOps and AI Trainer
