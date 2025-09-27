@@ -52,7 +52,4 @@
 
 ![sdfsdfsdfsdf](https://waifu-getter.vercel.app/sfw/random)
 
----
-
-[![Check](https://visitcount.itsvg.in/api?id=endermeme&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
