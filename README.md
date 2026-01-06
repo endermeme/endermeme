@@ -5,10 +5,7 @@
 - On the journey to becoming a DevOps and AI Trainer
 - A coder and tester who has been fucked by
 - ---> ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) <---
-
-# 📊GitHub Stats :
-![endermeme's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=endermeme&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=10&card_width=445)
-
+- 
 # 🐧Distro Stack :
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) 
