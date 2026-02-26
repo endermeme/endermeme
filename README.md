@@ -44,9 +44,3 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-
-### 💦Random anime picture :
-
-![sdfsdfsdfsdf](https://waifu-getter.vercel.app/sfw/random)
-
-
