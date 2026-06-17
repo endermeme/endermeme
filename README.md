@@ -2,7 +2,7 @@
 ![Jojo Calamity GIF](https://i.makeagif.com/media/9-14-2025/AQh0dB.gif)
 - Hello and welcome to my bullshit profile
 - My name is Bình but you can call me Tagilla
-- On the journey to becoming a DevOps and AI Trainer
+- On the journey to becoming a DevOps and AI Engineer
 - A coder and tester who still get fucked fucked by
 - ---> ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) <---
 # 🐧Distro Stack :
