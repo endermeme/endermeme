@@ -57,9 +57,6 @@ Bias toward shipping useful things and making them stay up.
 | **Open Source** | Linux Product Developer | 2022 — now |
 | **Odd Security Guys** | Security Verifier | 2022 — 2023 |
 
-At CES Global I build and review product code, run server infrastructure and API operations, and
-turn product requirements into things that actually ship.
-
 In open source I package and build software for Linux ecosystems — contributions around
 **Soda**, **Wine/Proton** and **Zen Browser** — and keep package repositories from rotting.
 
