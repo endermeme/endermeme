@@ -7,6 +7,7 @@
 <br />
 
 [![Website](https://img.shields.io/badge/binhtagilla.id.vn-F5C2E7?style=for-the-badge&logo=firefox&logoColor=1e1e2e)](https://binhtagilla.id.vn)
+[![Website](https://img.shields.io/badge/binhtagilla.id.vn-F5C2E7?style=for-the-badge&logo=firefox&logoColor=1e1e2e)](https://flacmusic.duckdns.org)
 [![GitHub](https://img.shields.io/badge/endermeme-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/endermeme)
 [![Facebook](https://img.shields.io/badge/Facebook-89DCEB?style=for-the-badge&logo=facebook&logoColor=1e1e2e)](https://www.facebook.com/tagilov.johnweak)
 
@@ -75,8 +76,9 @@ ask questions about video content. Managed AWS, VPS and domains.
 **[binhtagilla.id.vn](https://binhtagilla.id.vn)** — a desktop environment that runs in the browser:
 window manager, Linux VMs, games, media apps.
 `Next.js` `WebAssembly` `Docker`
-
----
+**[Sandium](flacmusic.duckdns.org)** - a self-hosted FLAC music streaming platform for listening to my high-quality music files for free ( account : gituser | pass : gituser ).
+`React Frontend` `Docker` `Python Backend`
+--- 
 
 ## Elsewhere
 
