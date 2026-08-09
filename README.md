@@ -1,5 +1,5 @@
 <div align="center">
-!(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNwdTd2NGM2bWp0bXozYnVjYTRta216dG1ucmkwcHdkZjNyaHB2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgrA0dZOHFzzkBmKe2/giphy.gif)
+![GIF :))](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNwdTd2NGM2bWp0bXozYnVjYTRta216dG1ucmkwcHdkZjNyaHB2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zgrA0dZOHFzzkBmKe2/giphy.gif)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89DCEB,50:C8A2D0,100:F5C2E7&height=190&section=header&text=B%C3%ACnh%20Ph%E1%BA%A1m&fontSize=52&fontColor=1e1e2e&desc=AI%20Product%20Developer%20%C2%B7%20Infrastructure%20%26%20Linux%20Builder&descSize=15&descAlignY=70&animation=fadeIn" width="100%" alt="" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=89DCEB&center=true&vCenter=true&width=560&lines=Self-taught%2C+shipping+AI+products;From+code+review+to+deployment;Servers%2C+Linux+and+everything+around+them;Arch%2C+btw" alt="" />
