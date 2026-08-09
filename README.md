@@ -76,8 +76,10 @@ ask questions about video content. Managed AWS, VPS and domains.
 **[binhtagilla.id.vn](https://binhtagilla.id.vn)** — a desktop environment that runs in the browser:
 window manager, Linux VMs, games, media apps.
 `Next.js` `WebAssembly` `Docker`
+
 **[Sandium](flacmusic.duckdns.org)** - a self-hosted FLAC music streaming platform for listening to my high-quality music files for free ( account : gituser | pass : gituser ).
 `React Frontend` `Docker` `Python Backend`
+
 --- 
 
 ## Elsewhere
