@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="./giphy.gif" alt="GIF">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89DCEB,50:C8A2D0,100:F5C2E7&height=190&section=header&text=B%C3%ACnh%20Ph%E1%BA%A1m&fontSize=52&fontColor=1e1e2e&desc=AI%20Product%20Developer%20%C2%B7%20Infrastructure%20%26%20Linux%20Builder&descSize=15&descAlignY=70&animation=fadeIn" width="100%" alt="" />
