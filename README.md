@@ -56,7 +56,7 @@ Bias toward shipping useful things and making them stay up.
 | :--- | :--- | ---: |
 | **CES Global** | Full Stack Developer & Infrastructure Lead | 2024 — now |
 | **Open Source** | Linux Product Developer | 2022 — now |
-| **Odd Security Guys** | Larper | 2022 — 2023 |
+| **Security Larper** | Larper | 2022 — 2023 |
 
 In open source I package and build software for Linux ecosystems — contributions around
 **Soda**, **Wine/Proton** and **Zen Browser** — and keep package repositories from rotting.
