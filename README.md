@@ -1,31 +1,27 @@
 <div align="center">
 <img src="./giphy.gif" alt="GIF">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89DCEB,50:C8A2D0,100:F5C2E7&height=190&section=header&text=B%C3%ACnh%20Ph%E1%BA%A1m&fontSize=52&fontColor=1e1e2e&desc=AI%20Product%20Developer%20%C2%B7%20Infrastructure%20%26%20Linux%20Builder&descSize=15&descAlignY=70&animation=fadeIn" width="100%" alt="" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=89DCEB&center=true&vCenter=true&width=560&lines=AI+is+wife;Coding+is+life;Workout+is+fuel;My+life+is+weird;Cachy%2C+btw;Fuck+Microsoft;T%E1%BB%B1+h%E1%BB%8Dc+l%C3%A0+%C4%91%C6%B0%E1%BB%A3c" alt="" />
-
-<br />
 
 [![Website](https://img.shields.io/badge/Portfolio-F5C2E7?style=for-the-badge&logo=firefox&logoColor=1e1e2e)](https://binhtagilla.id.vn)
 [![Website](https://img.shields.io/badge/Sandium-F5C2E7?style=for-the-badge&logo=firefox&logoColor=1e1e2e)](https://flacmusic.duckdns.org)
 [![GitHub](https://img.shields.io/badge/endermeme-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/endermeme)
 [![Facebook](https://img.shields.io/badge/Facebook-89DCEB?style=for-the-badge&logo=facebook&logoColor=1e1e2e)](https://www.facebook.com/tagilov.johnweak)
-
 </div>
 
 ---
 
 ## About
 
-Self-taught developer working on AI products and Linux infrastructure. I build production systems,
-run the servers under them, and ship the interfaces on top — comfortable from code review through
-deployment, from prompt engineering through platform ownership.
+I build web products and run the servers under them. Full stack in the literal sense:
+database, backend, interface, deployment. Usually I am the only person between a
+repository and a working domain.
 
-Bias toward shipping useful things and making them stay up.
+A lot of my work is MVPs for other teams. Someone has an idea and a deadline, I build
+the first real version, get it in front of users, and keep it running while they decide
+what happens next. So far that has covered AI features, an LMS video pipeline, and a
+media streaming platform.
 
-- Currently building AI products and infrastructure at **CES Global**
-- Packaging and maintaining software for Linux ecosystems
-- Somewhere between `git push` and `ssh root@prod`
+Self-taught. Currently at CES Global, building AI products and the infrastructure they
+run on. In my own time I package software for Linux.
 
 ---
 
@@ -47,53 +43,34 @@ Bias toward shipping useful things and making them stay up.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 
-
 ---
 
 ## Work
 
 | Where | Role | When |
 | :--- | :--- | ---: |
-| **CES Global** | Full Stack Developer & Infrastructure Lead | 2024 — now |
-| **Open Source** | Linux Product Developer | 2022 — now |
-| **Odd Security Guys** | Larper | 2022 — 2023 |
+| **CES Global** | Full Stack Developer & Infrastructure Lead | 2024 - now |
+| **Open Source** | Linux Product Developer | 2022 - now |
 
-In open source I package and build software for Linux ecosystems — contributions around
-**Soda**, **Wine/Proton** and **Zen Browser** — and keep package repositories from rotting.
+Open source work is mostly packaging: Soda, Wine/Proton and Zen Browser, and keeping
+the repositories current.
 
 ---
 
 ## Projects
 
-**[ceseduai.vn](https://ceseduai.vn)** — led the AI integration and prompt optimization, built the
-interfaces, handled VPS deployment.
+**[ceseduai.vn](https://ceseduai.vn)** - AI integration and prompt optimization, the
+interfaces on top, and the VPS deployment underneath.
 `Python` `React` `LLM` `DevOps`
 
-**[aiuni.vn](https://aiuni.vn)** — video-to-transcript pipeline for an LMS chatbot, so learners can
-ask questions about video content. Managed AWS, VPS and domains.
+**[aiuni.vn](https://aiuni.vn)** - video to transcript pipeline feeding an LMS chatbot,
+so learners can ask questions about the content of a lecture. AWS, VPS and domains.
 `AI pipeline` `AWS` `Infrastructure`
 
-**[binhtagilla.id.vn](https://binhtagilla.id.vn)** — a desktop environment that runs in the browser:
-window manager, Linux VMs, games, media apps.
+**[binhtagilla.id.vn](https://binhtagilla.id.vn)** - a desktop environment that runs in
+the browser: window manager, Linux VMs, games, media apps.
 `Next.js` `WebAssembly` `Docker`
 
-**[Sandium](flacmusic.duckdns.org)** - a self-hosted FLAC music streaming platform for listening to my high-quality music files for free ( account : gituser | pass : gituser ).
-`React Frontend` `Docker` `Python Backend`
-
---- 
-
-## Elsewhere
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com/?user=endermeme&theme=catppuccin-mocha&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)
-
-</div>
-
-🏆 1st Prize — Provincial IT Competition &nbsp;·&nbsp; 🇻🇳 Vietnam &nbsp;·&nbsp; 🎧 Music and open source
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C2E7,50:C8A2D0,100:89DCEB&height=120&section=footer" width="100%" alt="" />
-
-</div>
+**[Sandium](https://flacmusic.duckdns.org)** - self-hosted FLAC streaming, built so I
+can play my own lossless library from anywhere. Demo login: `gituser` / `gituser`.
+`React` `Python` `Docker`
