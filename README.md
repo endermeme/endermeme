@@ -1,10 +1,16 @@
 <div align="center">
 <img src="./giphy.gif" alt="GIF">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89DCEB,50:C8A2D0,100:F5C2E7&height=190&section=header&text=B%C3%ACnh%20Ph%E1%BA%A1m&fontSize=52&fontColor=1e1e2e&desc=AI%20Product%20Developer%20%C2%B7%20Infrastructure%20%26%20Linux%20Builder&descSize=15&descAlignY=70&animation=fadeIn" width="100%" alt="" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=89DCEB&center=true&vCenter=true&width=560&lines=AI+is+wife;Coding+is+life;Workout+is+fuel;My+life+is+weird;Cachy%2C+btw;Fuck+Microsoft;T%E1%BB%B1+h%E1%BB%8Dc+l%C3%A0+%C4%91%C6%B0%E1%BB%A3c" alt="" />
+
+<br />
 
 [![Website](https://img.shields.io/badge/Portfolio-F5C2E7?style=for-the-badge&logo=firefox&logoColor=1e1e2e)](https://binhtagilla.id.vn)
 [![Website](https://img.shields.io/badge/Sandium-F5C2E7?style=for-the-badge&logo=firefox&logoColor=1e1e2e)](https://flacmusic.duckdns.org)
 [![GitHub](https://img.shields.io/badge/endermeme-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/endermeme)
 [![Facebook](https://img.shields.io/badge/Facebook-89DCEB?style=for-the-badge&logo=facebook&logoColor=1e1e2e)](https://www.facebook.com/tagilov.johnweak)
+
 </div>
 
 ---
