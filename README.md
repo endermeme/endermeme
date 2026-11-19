@@ -15,20 +15,6 @@
 
 ---
 
-## About
-
-Self-taught developer working on AI products and Linux infrastructure. I build production systems,
-run the servers under them, and ship the interfaces on top — comfortable from code review through
-deployment, from prompt engineering through platform ownership.
-
-Bias toward shipping useful things and making them stay up.
-
-- Currently building AI products and infrastructure at **CES Global**
-- Packaging and maintaining software for Linux ecosystems
-- Somewhere between `git push` and `ssh root@prod`
-
----
-
 ## Stack
 
 **Build**
